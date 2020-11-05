@@ -1,6 +1,4 @@
 # Simple-Linear-Regression
-Simple Linear Regression
-
 
 ## Multicollinearity
 In regression, 'multicollinearity' refers to predictors that are correlated with other predictors. Multicollinearity occurs when a model includes multiple variables that are correlated not just with the target variable, but also with each other. In other words, it occurs with redundant variables.
